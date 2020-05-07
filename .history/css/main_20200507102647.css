@@ -1531,9 +1531,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
-.header-logo a:hover {
-    text-decoration: underline;
-}
 
 
 /* ------------------------------------------------------------------- 

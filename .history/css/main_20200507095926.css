@@ -1526,13 +1526,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     padding: 0;
     outline: 0;
     border: none;
-    font-size: 2rem;
-    color: #ffffff;
+    width: 80px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-}
-.header-logo a:hover {
-    text-decoration: underline;
 }
 
 
@@ -2372,17 +2368,7 @@ html.no-csstransitions .home-content__main {
     }
 }
 
-/* ===================================================================
- * # works - (_site-layout.scss)
- *
- * ------------------------------------------------------------------- */
 
- .s-projects {
-    padding-top: 15rem;
-    padding-bottom: 15.6rem;
-    background-color: #f1f1f1;
-    position: relative;
-}
 
 /* ===================================================================
  * # works - (_site-layout.scss)
@@ -2392,7 +2378,7 @@ html.no-csstransitions .home-content__main {
 .s-works {
     padding-top: 15rem;
     padding-bottom: 15.6rem;
-    background-color: #FFFFFF;
+    background-color: #f1f1f1;
     position: relative;
 }
 

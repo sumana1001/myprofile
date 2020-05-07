@@ -1527,12 +1527,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     outline: 0;
     border: none;
     font-size: 2rem;
-    color: #ffffff;
+    columns: #ffffff;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-}
-.header-logo a:hover {
-    text-decoration: underline;
 }
 
 
